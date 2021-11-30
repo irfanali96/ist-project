@@ -1,0 +1,45 @@
+            .head {
+                border: 1px solid black;
+                background-color: blueviolet;
+                height: 100px;
+                text-align: center;
+                padding: 10px;
+            }
+            
+            #bdy {
+                height: 500px;
+            }
+            
+            .main {
+                border: 1px solid black;
+                text-align: center;
+                background-color: rgb(12, 52, 161);
+                padding-top: 210px;
+            }
+            /* .bdy {
+                border: 1px solid black;
+                text-align: center;
+                background-color: rgb(172, 189, 20);
+                padding-top: 250px;
+            }*/
+            
+            .mid {
+                border: 1px solid black;
+                text-align: center;
+                vertical-align: text-bottom;
+                background-color: rgb(25, 158, 136);
+                padding-top: 210px;
+            }
+            
+            .mnu {
+                border: 1px solid black;
+                text-align: center;
+                background-color: yellow;
+                padding-top: 210px;
+            }
+            
+            .fot {
+                border: 1px solid black;
+                text-align: center;
+                background-color: lightgrey;
+            }
